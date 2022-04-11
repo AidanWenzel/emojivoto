@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: /manifests
+  cluster_info:
+    cluster_id: d3ce8f28-a4b9-58a7-ade8-076a32249572
+    cluster_name: demo-prod-7c7a49d0-d0c0-401c-b92b-76b18d745b56
